@@ -5,7 +5,7 @@ class Student():
     self.age = age,
     self.reg_no = reg_no
 
-  def cgpa(self, cgpa):
-    self.cgpa = cgpa
+  def cgpa(self):
+    self.cgpa = CGPA
     
   
